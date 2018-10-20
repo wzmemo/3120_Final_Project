@@ -14,13 +14,12 @@ I used Python packages Pandas, Numpy, Matplotlib for loading and wrangling, R fo
 
 ## Data
 Using data from [NYC EDC](http://www.nyaqinow.net/) and [Citibike's own internal datasets](https://www.citibikenyc.com/system-data)
+![Air Quality](https://github.com/wzmemo/3120_Final_Project/blob/master/images/aqpic.png)
 
-
-For our final <b> Pandas <b>
-  
+## More Data to Come
   
 ## License
-Copyright [2018] [William Zeng]
+Copyright 2018 William Zeng
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
