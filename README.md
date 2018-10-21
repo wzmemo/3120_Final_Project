@@ -1,7 +1,7 @@
 # Bikeshare Pollution Analysis
 #### Does more Citibike use Coorelate with Decreased Carbon Monoxide Levels?
 
-Remake of final project: analysis of increased bikeshare use and level of Carbon Monoxide in NYC (2013 - Present)
+Remake: analysis of increased bikeshare use and level of Carbon Monoxide in NYC (2013 - Present)
 
 ## Rationale
 I think the some of the ideas that many of us take for granted need to be put to the test. It's logical, and [commonly accepted](https://www.scholaradvisor.com/essay-examples-for-college/bicycle-helps-reduce-air-pollution/) that if a city moves away from automobile usage to bike usage, the air quality should improve. Yet as this [article](https://usa.streetsblog.org/2017/06/21/the-science-is-clear-more-highways-equals-more-traffic-why-are-dots-still-ignoring-it/) suggests, common taken-for-true assumptions might not always be as true as we think.
