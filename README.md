@@ -12,18 +12,22 @@ I hypothesized that increased bikeshare usage would be coorelated with **better 
 ## Methods 
 I used Python packages Pandas, Numpy, Matplotlib for loading and wrangling, R for linear regression and outlier considerations, and Tableau for the final visual. 
 
-## Data
+## Where did I get the data?
 Using data from [NYC EDC](http://www.nyaqinow.net/) and [Citibike's own internal datasets](https://www.citibikenyc.com/system-data)
 ![Air Quality](https://github.com/wzmemo/3120_Final_Project/blob/master/images/aqpic.png)
 
-![AQ_Tableau](https://github.com/wzmemo/Bikeshare-Pollution-Analysis/blob/master/images/aq_tableau.png)
+## Visualization of Citibike and Air quality over time
 
-![Citibike_Tableau](https://github.com/wzmemo/Bikeshare-Pollution-Analysis/blob/master/images/citibike_tableau.png)
+<img src="https://github.com/wzmemo/Bikeshare-Pollution-Analysis/blob/master/images/aq_tableau.png" width="600">
+<img src="https://github.com/wzmemo/Bikeshare-Pollution-Analysis/blob/master/images/citibike_tableau.png" width="600">
 
+## Regression of two variables
 ![Regression](https://github.com/wzmemo/Bikeshare-Pollution-Analysis/blob/master/images/regression%20image.png)
 
 # Conclusion
-foo bar
+There is a **negative** linear coorelation between increased bikeshare use and CO levels.
+
+In other words, more bike rides seems to be coorelated with decreased pollution.
 
 ## License
 Copyright 2018 William Zeng
