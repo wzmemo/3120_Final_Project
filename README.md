@@ -1,4 +1,4 @@
-## Bikeshare Pollution Analysis
+# Bikeshare Pollution Analysis
 #### Does more Citibike use Coorelate with Decreased Carbon Monoxide Levels?
 
 Remake of final project: analysis of increased bikeshare use and level of Carbon Monoxide in NYC (2013 - Present)
@@ -16,8 +16,15 @@ I used Python packages Pandas, Numpy, Matplotlib for loading and wrangling, R fo
 Using data from [NYC EDC](http://www.nyaqinow.net/) and [Citibike's own internal datasets](https://www.citibikenyc.com/system-data)
 ![Air Quality](https://github.com/wzmemo/3120_Final_Project/blob/master/images/aqpic.png)
 
-## More Data to Come
-  
+![AQ_Tableau](https://github.com/wzmemo/Bikeshare-Pollution-Analysis/blob/master/images/aq_tableau.png)
+
+![Citibike_Tableau](https://github.com/wzmemo/Bikeshare-Pollution-Analysis/blob/master/images/citibike_tableau.png)
+
+![Regression](https://github.com/wzmemo/Bikeshare-Pollution-Analysis/blob/master/images/regression%20image.png)
+
+# Conclusion
+foo bar
+
 ## License
 Copyright 2018 William Zeng
 
